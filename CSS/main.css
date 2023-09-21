@@ -1,14 +1,23 @@
-<style>
-      a:link, a:visited {
+body{
+      background-color: black;
+      color: white;
+      font-family: roboto;
+}
+
+h1{
+   text-align: senter;
+      font-size: 20rem;
+}
+
+.button {
+      a:link, a:visited 
         background-color:#009dff;
-        color: rgb(0, 0, 0);
+        color: white;
         padding: 15px 25px;
         text-align: center;
         text-decoration: roboto;
         display: inline-block;
       }
-      
       a:hover, a:active {
         background-color: #009dff;
       }
-</style>
